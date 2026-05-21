@@ -11,7 +11,7 @@ public class SampleTest {
 	}
 	@Test
 	public void case1() {
-		System.out.println("case 1 create");
+		System.out.println("case 1 created a file ");
 
 	}
 }
