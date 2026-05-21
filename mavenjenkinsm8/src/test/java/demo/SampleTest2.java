@@ -11,7 +11,7 @@ public class SampleTest2 {
 	}
 	@Test
 	public void case11() {
-		System.out.println("case 1 create");
+		System.out.println(" abc ");
 
 	}
 }
